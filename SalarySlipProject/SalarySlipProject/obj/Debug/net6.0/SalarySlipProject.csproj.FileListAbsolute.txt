@@ -1,0 +1,15 @@
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\bin\Debug\net6.0\SalarySlipProject.exe
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\bin\Debug\net6.0\SalarySlipProject.deps.json
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\bin\Debug\net6.0\SalarySlipProject.runtimeconfig.json
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\bin\Debug\net6.0\SalarySlipProject.dll
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\bin\Debug\net6.0\SalarySlipProject.pdb
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\obj\Debug\net6.0\SalarySlipProject.csproj.AssemblyReference.cache
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\obj\Debug\net6.0\SalarySlipProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\obj\Debug\net6.0\SalarySlipProject.AssemblyInfoInputs.cache
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\obj\Debug\net6.0\SalarySlipProject.AssemblyInfo.cs
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\obj\Debug\net6.0\SalarySlipProject.csproj.CoreCompileInputs.cache
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\obj\Debug\net6.0\SalarySlipProject.dll
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\obj\Debug\net6.0\refint\SalarySlipProject.dll
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\obj\Debug\net6.0\SalarySlipProject.pdb
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\obj\Debug\net6.0\SalarySlipProject.genruntimeconfig.cache
+C:\Users\junai\source\repos\SalarySlipProject\SalarySlipProject\obj\Debug\net6.0\ref\SalarySlipProject.dll
